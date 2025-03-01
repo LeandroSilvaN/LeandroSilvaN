@@ -55,6 +55,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeandroSilvaN/LeandroSilvaN/output/snake.svg" alt="Snake animation" />
-
-###
