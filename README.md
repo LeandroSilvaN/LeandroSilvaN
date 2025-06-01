@@ -1,20 +1,21 @@
-<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+# Olá! 👋 Bem-vindo ao meu perfil do GitHub!
+
+## Sobre mim
 
 ###
 
-<p align="left">My name is Leandro Silva and i'm a JavaScript Developer, from SP, Brazil 🇧🇷</p>
+Meu nome é Leandro Silva, sou Desenvolvedor JavaScript e moro em São Paulo, Brasil 🇧🇷. Aqui estão algumas informações sobre mim:
 
 ###
 
-<h2 align="left">About Me</h2>
+* **Desenvolvedor JavaScript**: Apaixonado por desenvolver soluções inovadoras com JavaScript.
+* **MS Office**: Conhecimento em ferramentas do Microsoft Office.
+* **Assistente de Farmácia**: Trabalho como Assistente de Farmácia na @Dasa.
+* **Estudante de Front-End**: Estou sempre estudando e aprimorando minhas habilidades em tecnologias Front-End.
 
 ###
 
-<p align="left">- JavaScript Developer<br>- MS Office <br>- Pharmacy Assistant at @Dasa<br>- Studying Front-End technologies</p>
-
-###
-
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -28,7 +29,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -40,7 +41,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Contato</h2>
 
 ###
 
@@ -52,6 +53,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+Se você quiser saber mais sobre mim ou discutir possíveis projetos, sinta-se à vontade para entrar em contato!
 
 ###
 
