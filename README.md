@@ -11,7 +11,11 @@ Meu nome é Leandro Silva, sou Desenvolvedor JavaScript e moro em São Paulo, Br
 * **Desenvolvedor JavaScript**: Apaixonado por desenvolver soluções inovadoras com JavaScript.
 * **MS Office**: Conhecimento em ferramentas do Microsoft Office.
 * **Assistente de Farmácia**: Trabalho como Assistente de Farmácia na @Dasa.
-* **Estudante de Front-End**: Estou sempre estudando e aprimorando minhas habilidades em tecnologias Front-End.
+* **Estudante de Desenvolvimento de Software Multiplataforma**: Atualmente cursando **Fatec - Faculdade de Tecnologia**, aprimorando minhas habilidades em desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes.
+
+  
+Este repositório reflete minha jornada de aprendizado e projetos práticos desenvolvidos ao longo do curso.
+
 
 ###
 
