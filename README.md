@@ -29,6 +29,14 @@ Meu nome é Leandro Silva, sou Desenvolvedor JavaScript e moro em São Paulo, Br
 
 ###
 
+<h2 align="left">Meus Badges</h2>
+
+###
+
+<a href="https://www.credly.com/badges/9cf39ae0-d782-4988-af70-d329c499ebbe/public_url"><img width="100" height="100" alt="cyber-threat-management" src="https://github.com/user-attachments/assets/bdcb5d99-d086-48fe-9996-769862452661" /></a>
+
+###
+
 <h2 align="left">Estatísticas</h2>
 
 ###
