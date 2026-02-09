@@ -46,9 +46,6 @@ Este repositório reflete minha jornada de aprendizado e projetos práticos dese
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroSilvaN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroSilvaN&layout=compact&theme=algolia&langs_count=5" height="150" alt="languages graph" />
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroSilvaN&theme=redical&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
