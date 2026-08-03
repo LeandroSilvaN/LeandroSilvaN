@@ -2,10 +2,8 @@
 
 
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-🌐 Desenvolvedor Web
-
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**   
+🌐 Desenvolvedor Web   
 📍 São Paulo - SP, Brasil
 
 
