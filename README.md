@@ -1,50 +1,64 @@
 # Olá! Eu sou o Leandro Silva 👋
 
-💻 Desenvolvedor JavaScript  
-📍 São Paulo - Brasil  
+
+
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+
+🌐 Desenvolvedor Web
+
+📍 São Paulo - SP, Brasil
 
 
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec e apaixonado por tecnologia.
-Busco evoluir constantemente criando projetos práticos e aplicando soluções reais com tecnologia.
 
-- 💻 Foco em **JavaScript**
-- 🧠 Conhecimento em **HTML, CSS e lógica de programação**
-- 💼 Experiência como **Assistente de Farmácia**
-- 📚 Sempre aprendendo novas tecnologias
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)** e entusiasta de tecnologia e desenvolvimento de software.
+
+
+
+Tenho interesse em **desenvolvimento Web e Full Stack** e busco evoluir constantemente por meio da criação de projetos práticos, explorando diferentes tecnologias e aplicando meus conhecimentos na construção de soluções.
+
+
+
+Atualmente, estou desenvolvendo meus conhecimentos em:
+
+
+
+* 💻 Desenvolvimento Web com **HTML, CSS e JavaScript**
+
+* ⚛️ **React** (em aprendizado)
+
+* 🐘 Desenvolvimento Back-end com **PHP e Python**
+
+* 🗄️ Banco de dados com **MySQL e SQL**
+
+* 🔧 Versionamento de código com **Git e GitHub**
+
+* 🧠 Lógica de programação e desenvolvimento de projetos
+
+
+
+Busco uma oportunidade de **estágio em Tecnologia da Informação ou Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir para projetos reais.
 
 
 
 ## 🛠️ Tecnologias
 
+
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql" height="40"/>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,python,java,cpp,mysql,git,github,vscode" height="40"/>
+
 </div>
-
-
 
 ## 🏆 Badges
 
 <a href="https://www.credly.com/badges/9cf39ae0-d782-4988-af70-d329c499ebbe/public_url">
-  <img width="100" height="100" src="https://github.com/user-attachments/assets/bdcb5d99-d086-48fe-9996-769862452661"/>
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/bdcb5d99-d086-48fe-9996-769862452661"/>
 </a>
-
-
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeandroSilvaN&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSilvaN&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroSilvaN&theme=redical&area=true&hide_border=true"/>
-</div>
-
-
 
 ## 📬 Contato
 
